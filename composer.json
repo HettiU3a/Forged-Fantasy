@@ -1,0 +1,21 @@
+{
+    "name": "forged-fantasy-hack/forged-fantasy-hack-mod-apk-get-unlimited-gems",
+    "description": "Forged Fantasy Hack Mod APK Get Unlimited Gems Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Forged Fantasy",
+            "homepage": "http://yourl.cf/2019/01/forged-fantasy-hack-gems-cheats.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
